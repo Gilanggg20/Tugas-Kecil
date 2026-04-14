@@ -72,7 +72,3 @@ Aplikasi web dibuat menggunakan:
 Aplikasi dapat menerima input user dan memprediksi:
 - Risk Level
 - Probabilitas tiap kelas
-
----
-
-## 📁 Struktur Project
